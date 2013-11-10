@@ -1,3 +1,6 @@
+-- author @dukebarman
+-- Simple script for listing hosts and cookies
+
 cookiewindow = TextWindow.new("List cookies")
 
 do
